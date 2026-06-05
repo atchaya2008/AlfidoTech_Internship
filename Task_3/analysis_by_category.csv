@@ -1,0 +1,4 @@
+Product_Category,Orders,Total_Qty,Total_Revenue,Avg_Order_Value,Min_Order,Max_Order
+Books,6,8,133.12,22.19,9.99,45.98
+Clothing,6,11,539.35,89.89,45.5,195.0
+Electronics,7,21,3830.82,547.26,431.973,959.9680000000001

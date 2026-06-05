@@ -1,0 +1,6 @@
+STUDENT RECORDS
+==================================================
+Alice Johnson | Roll: 001 | Class: A
+Bob Smith | Roll: 002 | Class: B
+Charlie Davis | Roll: 003 | Class: A
+Diana Wilson | Roll: 004 | Class: C

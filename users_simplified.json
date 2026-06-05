@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Leanne Graham",
+    "username": "Bret",
+    "email": "Sincere@april.biz",
+    "city": "Gwenborough",
+    "company": "Romaguera-Crona"
+  },
+  {
+    "id": 2,
+    "name": "Erwin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "city": "Amesbury",
+    "company": "Deckow-Crist"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "city": "McKenziehaven",
+    "company": "Romaguera-Jacobson"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.com",
+    "city": "South Elvis",
+    "company": "Robel-Corkery"
+  },
+  {
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "city": "Roscoeview",
+    "company": "Keebler LLC"
+  }
+]

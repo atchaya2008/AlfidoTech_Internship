@@ -1,0 +1,12 @@
+{
+  "total_users": 5,
+  "total_cities": 5,
+  "users_by_city": {
+    "Gwenborough": 1,
+    "Amesbury": 1,
+    "McKenziehaven": 1,
+    "South Elvis": 1,
+    "Roscoeview": 1
+  },
+  "generated_at": "2026-06-05T11:02:06.612716"
+}
